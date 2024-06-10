@@ -1,7 +1,7 @@
 # Blender_ile_Calisma_Odasi_tasarimi
 
-![Screenshot 1](screenshots/Oda1.PNG)
+![screenshot 1](screenshots/oda1.PNG)
 
-![Screenshot 2](screenshots/Oda2.PNG)
+![screenshot 2](screenshots/oda2.PNG)
 
-![Screenshot 3](screenshots/Oda3.PNG)
+![screenshot 3](screenshots/oda3.PNG)
